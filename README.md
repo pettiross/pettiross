@@ -9,7 +9,7 @@ I believe designers can do their best work when they understand the business and
 stuff using full-stack knowledge of ML/AI, hardware/software integration, and coding frameworks at Microsoft, Tableau, three startups,
 and as a consultant. I've git some examples in [my portfolio](https://www.portfolio.pettiross.com/). 
 
-GitHub wise, I don't have a lot of publicly available code, but I did design the 
+GitHub-wise, I don't have a lot of publicly available code, but I did design the 
 [Observable 10 color scheme](https://www.portfolio.pettiross.com/observable-10) built into 
 [D3](https://github.com/d3/d3) and Observable [Plot](https://github.com/observablehq/plot).
 
