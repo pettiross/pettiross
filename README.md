@@ -15,5 +15,5 @@ GitHub-wise, I don't have a lot of publicly available code, but I did design the
 
 ## What's cooking in my IDE
 
-I'm co-writing the React Native app that's part of a tabletop board game. It's giving me a good chance to dust off my JavsScript, implement 
-a little graph query engine, and update my declarative app skills.
+I'm co-writing the React Native app that's part of a tabletop board game. It's a good chance to implement 
+a little graph query engine and update my declarative app skills.
