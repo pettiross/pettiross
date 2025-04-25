@@ -3,7 +3,7 @@
 I took the [Tableau](https://tableau.com/) Product Design team from four people in a single office to a team of 40 working in a 1,000+ person product org across four
 time zones. We got to help Tableau go through hypergrowth, have an IPO, and build to $1 billion in revenue. 
 
-## I help product designers be successful partners with PMs and engineers.
+## I help product designers partner successfully with Product and Engineering.
 
 I believe designers can do their best work when they understand the business and the technology that powers it. I've shipped cool 
 stuff using full-stack knowledge of ML/AI, hardware/software integration, and coding frameworks at Microsoft, Tableau, three startups,
