@@ -1,7 +1,9 @@
 ## I'm a design leader who builds happy and diverse teams.
 
-I took the [Tableau](https://tableau.com/) Product Design team from four people in a single office to a team of 40 working in a 1,000+ person product org across four
-time zones. We got to help Tableau go through hypergrowth, have an IPO, and build to $1 billion in revenue. 
+I'm a solo product designer now, bringing planetary-scale analytics to life at [Wherobots](https://whereobots.com/). Previously, I 
+took the [Tableau](https://tableau.com/) Product Design team from four people in a single office to a team of 40 working in a 1,000+ 
+person product org across four time zones. We got to help Tableau go through hypergrowth, have an IPO, and build to $1 billion 
+in revenue. 
 
 ## I help product designers partner successfully with Product and Engineering.
 
