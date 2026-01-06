@@ -18,7 +18,7 @@ GitHub-wise, I don't have a lot of publicly available code, but I did design the
 
 ## I'm a design leader who builds happy and diverse teams.
 
-I'm a solo product designer now, bringing planetary-scale analytics to life at [Wherobots](https://whereobots.com/). Previously, I 
+I'm a solo product designer now. My most recent professional experience was bringing planetary-scale analytics and AI to life at [Wherobots](https://whereobots.com/). Previously, I 
 took the [Tableau](https://tableau.com/) Product Design team from four people in a single office to a team of 40 working in a 1,000+ 
 person product org across four time zones. We got to help Tableau go through hypergrowth, have an IPO, and build to $1 billion 
 in revenue. 
