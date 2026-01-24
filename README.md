@@ -1,6 +1,6 @@
 ## What's cooking in my IDE
 
-I'm writing a React (soon React Native) app that's part of an unpublished tabletop board game tentatively titled Wood and Steel. It's a good chance to implement 
+I'm writing a React web and phone app that's part of an unpublished tabletop board game tentatively titled Wood and Steel. It's a good chance to implement 
 a little graph query engine and update my declarative app skills.
 
 I recently spent a lot of coding time writing and updating [Wherobots's example notebooks](https://github.com/wherobots/wherobots-examples)
